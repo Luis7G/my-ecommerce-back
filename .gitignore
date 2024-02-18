@@ -36,3 +36,5 @@ mysql-data/
 
 ###Testing ####
 .fake
+mvnw
+mvnw.cmd
